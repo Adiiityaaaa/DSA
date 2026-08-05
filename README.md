@@ -9,6 +9,7 @@ My DSA solutions in C++
 | [0001-two-sum](https://github.com/Adiiityaaaa/DSA/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/Adiiityaaaa/DSA/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Adiiityaaaa/DSA/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Adiiityaaaa/DSA/tree/master/0169-majority-element) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -17,6 +18,7 @@ My DSA solutions in C++
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Adiiityaaaa/DSA/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Adiiityaaaa/DSA/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -25,6 +27,7 @@ My DSA solutions in C++
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Adiiityaaaa/DSA/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Adiiityaaaa/DSA/tree/master/0169-majority-element) |
 ## Quicksort
 |  |
 | ------- |
@@ -33,4 +36,16 @@ My DSA solutions in C++
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Adiiityaaaa/DSA/tree/master/0075-sort-colors) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Adiiityaaaa/DSA/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Adiiityaaaa/DSA/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Adiiityaaaa/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
