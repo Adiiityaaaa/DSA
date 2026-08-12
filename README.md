@@ -12,6 +12,7 @@ My DSA solutions in C++
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adiiityaaaa/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Adiiityaaaa/DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Adiiityaaaa/DSA/tree/master/0169-majority-element) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Adiiityaaaa/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -25,6 +26,7 @@ My DSA solutions in C++
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Adiiityaaaa/DSA/tree/master/0075-sort-colors) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Adiiityaaaa/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
@@ -56,4 +58,8 @@ My DSA solutions in C++
 | ------- |
 | [0053-maximum-subarray](https://github.com/Adiiityaaaa/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adiiityaaaa/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Adiiityaaaa/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
